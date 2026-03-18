@@ -14,7 +14,7 @@ Criar uma aplicação interativa capaz de estimar o custo de obras com base em p
 
 A aplicação está disponível para acesso público:
 
-🔗 https://SEU-LINK-STREAMLIT
+🔗 https://paving-analytics.streamlit.app/
 
 Permite simular custos de obras em tempo real com base nos parâmetros definidos pelo usuário.
 
